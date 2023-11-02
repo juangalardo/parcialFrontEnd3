@@ -1,0 +1,14 @@
+h2, h4 {
+    color: white;
+    background-color: rgb(23, 23, 152);
+}
+
+h3 {
+    color: black;
+    background-color: rgb(193, 193, 59);
+}
+
+img {
+    width: 200px;
+    height: 250px;
+}

@@ -1,15 +1,15 @@
-import './App.css'
-import Card from './Components/Card'
+/*import './App.css'*/
+import Registro from './Components/Registro/Registro'
 
 function App() {
-
+  
   return (
-    <div className='App'>
-      <h1>Carga de estudiantes</h1>
-      <form></form>
-      <Card/>
-    </div>
-)
+    <div>
+
+      <Registro/>
+      
+      </div>    
+  )
 }
 
 export default App
